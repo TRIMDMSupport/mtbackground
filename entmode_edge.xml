@@ -1,0 +1,427 @@
+<site-list version="14">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>05/27/2025 07:55:08</date-created>
+  </created-by>
+  <site url="spider.ossuz.telekom.intra/info">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="wfms.nrps.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="irka.telekom.intra/irka/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irka.telekom.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.15.32.103/rekod2/index.jsp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www4.takarnet.hu">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www3.takarnet.hu">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.t-ingatlan.hu">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="har.telekom.intra:8445/har">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="npss.mr.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="nmmprdapp">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ap3cons2.t-online.private">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="prdusg2ad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="petusg2ad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bilastrn0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bilbattrn0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bilbatits0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="spaprod.spa.telekom.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="printsrv.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.15.32.184">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="melodepo.hu">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="icdb.idmz.t-mobile.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="prdaslbad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.smart-intercompany.de">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="optimal.telekom.hu">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="mvufsz.t-mobile.hu/cmpsauth/xufsz_2_01_login.jsp">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="mvufsz.t-mobile.hu">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="e-man">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="e-man/nagios3/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="griddb-gc.idmz.t-mobile.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="griddb-gc.idmz.t-mobile.intra/em/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="v81admin.mapps.t-online.private">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="v81admin.mapps.t-online.private/admin/index.html">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="irkatst.telekom.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="spotxdeoam.dmz.t-mobile.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="172.31.180.232">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="spotxdeoam.dmz.t-mobile.intra/index.jsp">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="prdbl1ad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="petbl1ad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="tbsm.t-mobile.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="clccpwfoapp01.res.hu.corp:7002/wfo/">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="myportal-test.corp.telekom.de">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="lg.net.telekom.hu">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.3.76.82">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.3.76.82/nagios/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="ngcrm.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="bilbatdev0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bilfelbprd1.t-mobile.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="sark-test.t-mobile.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sark-test">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="webasdev1.t-mobile.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="webasdev1">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="petaslbad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bcp.ini.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bcpteszt.ini.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bcpfejl.ini.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="reporting.telekom.intra/Reports">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="pomevservice03.dt-one.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.dijnet.hu/ugyek">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="qc-alm.telekom.de">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="adattarhaz.telekom.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mpmsvtest.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="mpmstest.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="cognosbi.res.hu.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="pslint.one-erp.telekom.de">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mpms.telekom.intra/pwa">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="sales.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.1.68.222">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="172.17.24.17">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="172.17.24.17/push/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.3.76.31">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="172.17.18.4">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.3.76.31/businesspublisher/layouts/shared/login.jsp">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="172.17.18.4/admin/index.html">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.5.49.147">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="mpms.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="tcrv8.t-mobile.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.239.200.81">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.45.197">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.44.197">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fax.telekom.intra/FaxWeb">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="share.telekom.intra/apps/FI_USZRSZ_TERULES">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dashlb.t-mobile.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="reporting.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="dwhportal.res.hu.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mb.telekom.intra">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="wf.iam.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="iam.telekom.intra">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="itsbl1ad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="itsaslbad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="itsusg2ad">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="amdocsitst.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="amdocstst.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="amdocs.telekom.intra">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.239.234.33">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="download.deverto.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="91.120.254.166">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.44.194">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.44.220">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.44.235">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.44.250">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.45.194">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.45.253">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.45.233">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="145.236.45.243">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
